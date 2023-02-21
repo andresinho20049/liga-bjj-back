@@ -48,12 +48,12 @@ Sobre:
 
 4. Start Project
 ```mvn
-  mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=5000
+  mvn package appengine:run
 ```
 
 5. Open Swagger
-  - No navegador digite a url: http://localhost:5000/api/swagger-ui/index.html
-  - ou se preferir [clique aqui](http://localhost:5000/api/swagger-ui/index.html)
+  - No navegador digite a url: http://localhost:8080/api/swagger-ui/index.html
+  - ou se preferir [clique aqui](http://localhost:8080/api/swagger-ui/index.html)
 
 ### Config Lombok
 
