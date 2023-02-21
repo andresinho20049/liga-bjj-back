@@ -52,8 +52,8 @@ Sobre:
 ```
 
 5. Open Swagger
-  - No navegador digite a url: http://localhost:8080/api/swagger-ui/index.html
-  - ou se preferir [clique aqui](http://localhost:8080/api/swagger-ui/index.html)
+  - No navegador digite a url: http://localhost:8080/swagger-ui/index.html
+  - ou se preferir [clique aqui](http://localhost:8080/swagger-ui/index.html)
 
 ### Config Lombok
 
