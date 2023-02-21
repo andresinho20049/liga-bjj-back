@@ -77,9 +77,9 @@ Marque lombok e depois click em finish
   "updatePassword": true,
   "active": true,
   "roles": [
-      {
-          "name": "ROLE_ADMIN"
-      }
+    {
+        "name": "ROLE_ADMIN"
+    }
   ]
 }
 ```
